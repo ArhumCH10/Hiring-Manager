@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "status": "Open",
+    "category": "Research",
+    "title": "Research and Development Officer",
+    "type": "Fulltime",
+    "location": "Jogja",
+    "mode": "Onsite",
+    "candidatesApplied": 55,
+    "completedInterview": 28,
+    "postedDate": "2024-10-31",
+    "closeDate": "2024-11-17",
+    "daysToGo": 17,
+    "createdBy": "Bagus"
+  },
+  {
+    "id": 2,
+    "status": "Hold",
+    "category": "Social Media",
+    "title": "Social Media Specialist",
+    "type": "Freelance",
+    "location": "Surabaya",
+    "mode": "Remote",
+    "candidatesApplied": 35,
+    "completedInterview": 9,
+    "postedDate": "2024-06-13",
+    "closeDate": "2024-12-03",
+    "daysToGo": 90,
+    "createdBy": "Raihan"
+  },
+  {
+    "id": 3,
+    "status": "Draft",
+    "category": "Development",
+    "title": "React Native Mobile Developer",
+    "type": "Freelance",
+    "location": "Jogja",
+    "mode": "Hybrid",
+    "candidatesApplied": 0,
+    "completedInterview": 0,
+    "createdBy": "Panji"
+  }
+]
